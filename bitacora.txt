@@ -9,3 +9,7 @@
 (01)   Clonar repo
 (02)   Editar bitácora
 (03)   Hago commit
+
+(09)   Cambio a RamaB
+(10)   Edito dirección bien
+(11)   Bitácora y commit
