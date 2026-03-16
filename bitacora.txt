@@ -17,3 +17,7 @@
 (09)   Cambio a RamaB
 (10)   Edito dirección bien
 (11)   Bitácora y commit
+(12)   cambio de rama
+(13)   Mergeo RamaA					Fast-Forward
+(14)   Mergeo RamaB					Había conflicto en bitácora y dirección, arreglados. El mensaje del commit está mal, puse 15 cuando era 14
+(15)   Bitácora y commit
