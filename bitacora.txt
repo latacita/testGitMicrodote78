@@ -29,3 +29,9 @@
 (21)   commit de calificación
 (22)   Vuelvo a RamaC
 (23)   añado cambios y commit
+(24)   Cambio a Master
+(25)   Será recursiva
+(26)   Fusiono RamaD				Fast-Forward
+(27)   Fusiono RamaC				ORT, o sea recursiva
+(28)   Etiqueto
+(29)   Bitácora y commit
