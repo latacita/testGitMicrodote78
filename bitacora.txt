@@ -14,3 +14,6 @@
 (06)   Cambio a RamaA
 (07)   Edito dirección
 (08)   Commit
+(09)   Cambio a RamaB
+(10)   Edito dirección bien
+(11)   Bitácora y commit
