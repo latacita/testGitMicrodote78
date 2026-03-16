@@ -21,3 +21,11 @@
 (13)   Mergeo RamaA					Fast-Forward
 (14)   Mergeo RamaB					Había conflicto en bitácora y dirección, arreglados. El mensaje del commit está mal, puse 15 cuando era 14
 (15)   Bitácora y commit
+(16)   Creada RamaC
+(17)   Moverse a RamaC
+(18)   Edito dirección
+(19)   Creo ramad local y remota
+(20)   Creo calificación
+(21)   commit de calificación
+(22)   Vuelvo a RamaC
+(23)   añado cambios y commit
